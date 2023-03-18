@@ -1,4 +1,4 @@
-<title>Creates You</title>
+<title>H-FACTORY</title>
 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 
 <!-- Owl Script -->

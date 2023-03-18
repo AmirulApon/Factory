@@ -14,10 +14,10 @@
     <?php include './elements/headerDesign.php'; ?>
     <!--//Header-->
   </header>
-  <section class="main-container">
-    
 
-  </section>
+  <?php include 'services.php'; ?>
+  <?php include 'product.php'; ?>
+  <?php include 'review.php'; ?>
   <footer>
     <!--Footer-->
     <?php include './elements/footerDesign.php'; ?>

@@ -1,7 +1,7 @@
 <!--Header-->
 <section class="container-fluid">
   <!-- Main Header -->
-  <div class="header">
+  <div class="main-header">
     <!--  Header Top -->
     <div class="header-top ">
       <!--  Header Top Inner-->
@@ -61,7 +61,7 @@
         <!-----End-logo--->
       </div>
 
-      <div class="col-md-9  align-items-center">
+      <div class="col-md-9 d-flex align-items-center">
         <!------Main-Menu--->
         <div class="main-menu">
           <ul>
