@@ -1,4 +1,28 @@
 <section class="main-container-white">
+    <div class="container get-start d-flex">
+        <div class="get-text">
+            <h1>we give the best for our customers</h1>
+
+        </div>
+        <div class="start-btn d-flex">
+            <div><a href="#">Get Stareted </a></div>
+            <div><i class="fa-solid fa-arrow-right"></i></div>
+
+        </div>
+    </div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<section class="main-container-white">
     <div class="container products">
         <hr>
 

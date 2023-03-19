@@ -1,5 +1,11 @@
+<section class="main-container-white"></section>
+<section class="main-container-white"></section>
+<section class="main-container-white"></section>
+
 <section class="main-container-white">
+    
     <div class="container services">
+        <hr>
         <div class="row">
             <div class="col-md-3">
                 <div class="service-text text-start">
@@ -9,7 +15,7 @@
 
                     <p class="paragraph"> Create Your first HP Quickly And Cheaply! </p>
 
-                    <div><a class="btn btn-light " href="#">VIEW ALL</a></div>
+                    <div class="service-btn"><a class="btn btn-light " href="#">VIEW ALL</a></div>
                 </div>
             </div>
 
